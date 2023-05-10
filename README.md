@@ -1,6 +1,6 @@
 # Project Title: very simple implementation of key idea of CLIP
 
-This is a Python project, which is a very simple implementation of key idea of CLIP. The code can help starter understand the basic idea of CLIP.
+This is a Python project, which is a very simple implementation of key idea of CLIP. The code is fully commented and can help starter understand the basic idea of CLIP.
 
 ## Installation
 
